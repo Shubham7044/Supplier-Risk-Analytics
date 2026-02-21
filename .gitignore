@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS / IDE
+.vscode/
+.idea/
+
+# Data (optional - keep small samples only)
+data/*.csv
+
+# Models (optional - large files)
+models/*.pkl
+
+# Logs
+*.log
